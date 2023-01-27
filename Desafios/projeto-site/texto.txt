@@ -1,0 +1,71 @@
+FONTE (s): Oswald
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&display=swap');
+        'font-family: 'Oswald', sans-serif;'
+
+    Poppins
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+        'font-family: 'Poppins', sans-serif;'
+
+    Patrick Hand
+@import url('https://fonts.googleapis.com/css2?family=Patrick+Hand&display=swap');
+        'font-family: 'Patrick Hand', cursive;'
+
+PALETA DE CORES:
+#B5E6C9
+#00CC55
+#009940
+#146335
+#004D20
+contraste:
+#CC0E00
+________________________________________________________________
+
+[LOGO]
+
+WAGNER HENRIQUE
+Treinamento Personalizado!
+
+[MENU]
+Inicio
+Sobre
+Serviços
+Fale comigo
+
+Um Pouco sobre mim
+
+Me chamo Wagner Henrique Lichtenthaler, e atualmente tenho 28 anos. Passei 4.5 desses anos estudando Educação Física (Bacharel) numa das melhores faculdades do país, a UDESC.
+
+Na metade do curso descrobri a modalidade [link]CrossFit&#174;, e logo de nas primeiras aulas já fui contaminado com a energia da modalidade. Realizei a certificação, e ja pratico a modalidade desde 2015.
+
+[video de CROSS]
+
+Comecei a trabalhar com o CrossFit&#174; ainda na faculdade como estagiário em 2017, e assim que me formei em 2019 fui contratado para o meu primeiro emprego como Coach. 
+
+[foto]
+
+Sempre fui uma pessoa muito ativa fisicamente e além do CrossFit&#174;, também gosto de praticar musculação, surf, pedalar, etc.
+
+Transição
+
+Em meados de 2020 durante a pandemia, me vi desmotivado com a carreira de Profissional de Educação Física, e resolvi então procurar uma nova área de atuação. Me vi diante de um mar de possibilidades e acabei escolhendo a área de técnologia. 
+
+Este é o primeiro site que estou desenvolvendo sozinho, com apenas HTML5 e CSS3. Estou estudando para fazer uma transição de carreira profissional.
+
+[EXTRA]
+Meus Serviços
+
+Ainda atuo na área de Educação Física e esses são alguns dos serviços que ofereço.
+
+- Consultoria de Treinos
+    °Crossfit             
+    °Musculação
+
+- Personal Training
+    °Crossfit
+    °Musculação
+
+[/EXTRA]
+
+Obrigado por visitar meu site, espero que tenha gostado. Se quiser entrar em contato comigo é só clicar aqui!.
+
+Site Criado por Wagner Henrique. 

@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mídias em HTML5</title>
+    <link rel="shortcut icon" href="Imagens/favicon.ico" type="image/x-icon">
+</head>
+<body>
+    <h1>Imagens dinâmicas</h1>
+    <p>Tente abrir esse site em vários dispositivos diferentes ou simplesmente diminua e aumente o tamanho do seu navegador</p>
+
+    <picture>
+        <source media="(max-width: 750px)" srcset="Imagens/Imagem-P.png" type="image/png">
+        <source media="(max-width: 1050px)" srcset="Imagens/Imagem-M.png" type="image/png">
+        <img src="Imagens/Imagem-G.png" alt="imagem flexível">
+        <source media="(min-width: )" srcset="" type="image/">
+    </picture>
+    <h1>Reproduzindo Áudio</h1>
+    <p>Vamos aprender a reproduzir áudios em HTML5.</p>
+        <!-- formato: MP3, WAV, OGG  -->
+    <audio preload="auto" autoplay controls>
+        <source src="midias/CantHide.mp3" type="audio/mpeg">
+        <source src="midias/CantHide.ogg" type="audio/ogg">
+        <source src="midias/CantHide.wav" type="audio/wav">
+        <p>Infelizmente seu navegador não consegue reproduzir áudio. <a href="midias/CantHide.mp3" download="midias/CantHide.mp3" type="audio">Clique aqui</a> para baixar o arquivo</p>
+
+    </audio>
+
+
+</body>
+</html>

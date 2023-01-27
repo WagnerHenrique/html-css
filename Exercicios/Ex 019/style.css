@@ -1,0 +1,55 @@
+@charset "UTF-8";
+
+/* 
+    Em HTML 'id' em CSS # (Somente 1 elemento)
+    Em HTML 'class' em CSS . (Pode vários elementos)
+*/
+
+body {
+    background-color: rgba(202, 255, 250, 0.442);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color: rgb(0, 84, 86);
+    margin-left: 8px;
+}
+h1#principal {
+    text-align: center;    
+    background-color: rgb(0, 84, 86);
+    color: rgb(255, 255, 255);
+    font:normal 450 3.5em serif;
+    margin-left: 12px;    
+}
+.css {
+    font-family: cursive;
+}
+
+
+h2 {
+    color: rgba(0, 97, 94, 0.886);
+    margin-left: 65px;
+}
+
+.basico {
+    color: rgba(0, 97, 15, 0.886);
+}
+
+.intermediario {
+    color: rgba(97, 97, 0, 0.886);
+}
+
+.avancado {
+    color: rgba(97, 3, 0, 0.886);
+}
+
+.paragrafo {
+    text-align: justify;
+    text-indent: 20px;
+    font: normal 400 1em verdana;
+    border: 1px solid black;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 50px;
+    box-shadow: 0px 0px 5px ;
+}
